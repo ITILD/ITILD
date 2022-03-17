@@ -7,7 +7,4 @@
 - daily_test_server  前端快速测试 https://github.com/ITILD/FTL-web
 - daily_test_server     主后端快速测试和小型库 https://github.com/ITILD/FTL-server
 - UsualTest   稳定前后端测试demo平台 https://github.com/ITILD/UsualTest
-<!---
-ITILD/ITILD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
