@@ -11,5 +11,5 @@
 
 - cesium-dev-help  [cesium开发辅助ts封装](https://github.com/geogpu/cesium-dev-help)
 - Map3DFigma [在线设计软件figma的简单三维地图插件](https://github.com/WorldReal/Map3DFigma)
-- lego-wordv [voxel体素世界库，包含lego特殊规则](https://github.com/WorldReal/Map3DFigma)
+- lego-wordv [voxel体素世界库，包含lego特殊规则](https://github.com/WorldReal/lego-world)
 
