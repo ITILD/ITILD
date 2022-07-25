@@ -10,4 +10,6 @@
 
 
 - cesium-dev-help   cesium开发辅助ts封装 https://github.com/geogpu/cesium-dev-help
+- Map3DFigma [在线设计软件figma的简单三维地图插件](https://github.com/WorldReal/Map3DFigma)
+- cesium-dev-help   cesium开发辅助ts封装 https://github.com/geogpu/cesium-dev-help
 
