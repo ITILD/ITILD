@@ -8,3 +8,6 @@
 - daily_test_server     主后端快速测试和小型库 https://github.com/ITILD/FTL-server
 - UsualTest   稳定前后端测试demo平台 https://github.com/ITILD/UsualTest
 
+
+- cesium-dev-help   cesium开发辅助ts封装 https://github.com/geogpu/cesium-dev-help
+
